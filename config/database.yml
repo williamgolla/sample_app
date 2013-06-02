@@ -1,0 +1,11 @@
+development:
+  adapter: postgresql
+  encoding: utf8
+  database: sampleapp_db
+  pool: 5
+
+production:
+  adapter: postgresql
+  encoding: utf8
+  database: sampleapp_db
+  pool: 5
